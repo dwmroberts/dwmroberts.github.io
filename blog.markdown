@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Latest news
-permalink: /blog
+title: Exhibitions
+permalink: /exhibitions
 ---
 <div class="latest-posts">
   <ul>

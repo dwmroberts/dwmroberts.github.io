@@ -10,10 +10,8 @@
         <div class="header-content-inner">
           {% if page.layout != 'post' %}
             <h1>{{ page.title }}</h1>
-            <hr>
           {% else %}
             <h1>Latest news</h1>
-            <hr>
           {% endif %}
         </div>
     </div>
