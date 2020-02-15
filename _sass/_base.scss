@@ -169,7 +169,9 @@ header.front-header {
             h1 {
                 margin-right: 0;
                 margin-bottom: 0;
-                background-position: right;
+                text-indent: -99999px;
+                background: url('/img/signature-white.png') no-repeat right transparent;
+                background-size: contain;
             }
         }
     }
@@ -219,9 +221,8 @@ header {
                 text-transform: uppercase;
                 //margin-top: 1em;
                 margin-bottom: 0;
-                text-indent: -99999px;
-                background: url('/img/signature-white.png') no-repeat center transparent;
-                background-size: contain;
+                text-align: center;
+                width:100%;
             }
         }
     }
@@ -432,4 +433,10 @@ body {
 
 .instagram-media {
     margin: 2em auto !important;
+}
+
+.slick {
+  .slick-img {
+    width: 100%;
+  }
 }
