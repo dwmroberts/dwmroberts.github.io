@@ -3,6 +3,7 @@
     $('.slick').slick({
       dots: true,
       slidesToShow: 1,
+      lazyLoad: 'ondemand',
       speed: 500,
       fade: true,
       cssEase: 'linear',
