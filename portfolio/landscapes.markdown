@@ -7,16 +7,16 @@ images:
     title: Dawn on the River Milgis
   
   - image_path: /img/portfolio/landscapes/DSC9763.jpg
-    title: DSC9763
+    title: Untitled Milgis
   
   - image_path: /img/portfolio/landscapes/DSC9760.jpg
-    title: DSC9760
-  
+    title: Untitled Milgis
+
+  - image_path: /img/portfolio/landscapes/DSC9764.jpg
+    title: Untitled Milgis
+
   - image_path: /img/portfolio/landscapes/DSC9771.jpg
     title: DSC9771
-  
-  - image_path: /img/portfolio/landscapes/DSC9764.jpg
-    title: DSC9764
   
   - image_path: /img/portfolio/landscapes/DSC9743.jpg
     title: Theia
@@ -69,14 +69,8 @@ images:
   - image_path: /img/portfolio/landscapes/baringo-reflections-sankara.jpg
     title: Baringo Reflections
 
-  - image_path: /img/portfolio/baringo-teddy-bear.jpg
-    title: Baringo
-
   - image_path: /img/portfolio/landscapes/02-hype.jpg
     title: 02 Journey through a lens
-
-  - image_path: /img/portfolio/landscapes/14-hype.jpg
-    title: 14-hype
   
   - image_path: /img/portfolio/landscapes/15-hype.JPG
     title: 15-hype
