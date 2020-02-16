@@ -3,6 +3,8 @@ layout: default
 title: Insects
 permalink: /portfolio/insects
 images:
+  - image_path: /img/sean-dragonfly.jpg
+    title: Dragonfly
   - image_path: /img/portfolio/insects/14-framed-bizbaz-alchemist.jpg
     title: 14-framed-bizbaz-alchemist
   - image_path: /img/portfolio/insects/15-framed-bizbaz-alchemist.jpg

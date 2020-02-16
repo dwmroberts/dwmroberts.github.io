@@ -236,6 +236,18 @@ header {
     margin-inline-start: 0px;
     margin-inline-end: 0px;
     padding-inline-start: 40px;
+
+    li {
+      h2 {
+        a {
+          text-decoration: none;
+
+          &:hover {
+            text-decoration: underline;
+          }
+        }
+      }
+    }
   }
 }
 
@@ -418,5 +430,18 @@ body {
         visibility: visible;
       }
     }
+  }
+}
+
+.post-content {
+  h1 {
+    font-size: 1em;
+  }
+
+  .post-metadata {
+    display: block;
+    font-size: 1.25em;
+    font-style: italic;
+    margin-bottom: 1em;
   }
 }

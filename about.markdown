@@ -30,11 +30,11 @@ __2011__ Works exhibited and auctioned, The Tibet Fund Event, New York, USA
 
 __2011__ Works exhibited, Pacini Lubel Gallery, Seattle, USA
 
-__2012__ Group Exhibit, “Traditions”, M. Rosette Hunter Gallery, Seattle, USA
+__2012__ Group Exhibit, [“Traditions”, M. Rosette Hunter Gallery](https://artgallery.seattlecentral.edu/traditions){:target='_blank'}, Seattle, USA
 
 __2013__ Group Exhibit, Diani Beach Art Gallery, Diani, Kenya
 
-__2015__ ArtPrize, Michigan, USA
+__2015__ ["Dawn on the River Milgis", ArtPrize](https://www.artprize.org/61890){:target='_blank'}, Michigan, USA
 
 __2016__ Charity Exhibit, “Art with the owls”, Naivasha, Kenya
 
@@ -44,9 +44,9 @@ __2016 (November - June 2017)__, Solo Exhibit “Moveable Feasts”, Lamu, Kenya
 
 __2017 (October)__,  Group Exhibit, “The Kenya Art Diary 2018”, National Museums of Kenya
 
-__2017 (November)__, Group Exhibit, “Blue”, One off gallery, Nairobi, Kenya
+__2017 (November)__, Group Exhibit, [“Blue”, One off gallery](https://www.oneoffafrica.com/blue.html){:target='_blank'}, Nairobi, Kenya
 
-__2018 (January)__, Group Exhibit, “Reflections”, One off gallery in partnership with Sankara Hotel, Nairobi, Kenya
+__2018 (January)__, Group Exhibit, [“Reflections”, One off gallery in partnership with Sankara Hotel](https://www.oneoffafrica.com/reflections-sankara.html){:target='_blank'}, Nairobi, Kenya
 
 __2018 (July)__, Solo Exhibit, Polkadot Gallery, Nairobi, Kenya
 
