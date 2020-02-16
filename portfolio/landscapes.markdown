@@ -3,6 +3,16 @@ layout: default
 title: Landscapes
 permalink: /portfolio/landscapes
 images:
+  - image_path: /img/portfolio/landscapes/milgis-dawn.jpg
+    title: Dawn on the River Milgis
+  - image_path: /img/portfolio/landscapes/DSC9763.jpg
+    title: DSC9763
+  - image_path: /img/portfolio/landscapes/DSC9760.jpg
+    title: DSC9760
+  - image_path: /img/portfolio/landscapes/DSC9771.jpg
+    title: DSC9771
+  - image_path: /img/portfolio/landscapes/DSC9764.jpg
+    title: DSC9764
   - image_path: /img/portfolio/landscapes/01-blue-exhibition.jpg
     title: 01 Blue Exhibition
   - image_path: /img/portfolio/landscapes/02-bizbaz.jpg
@@ -21,8 +31,6 @@ images:
     title: 04-framed-bizbaz
   - image_path: /img/portfolio/landscapes/04-hype.jpg
     title: 04-hype
-  - image_path: /img/portfolio/milgis.jpg
-    title: Milgis
   - image_path: /img/portfolio/landscapes/06-hype.jpg
     title: 06-hype
   - image_path: /img/portfolio/landscapes/07-hype.jpg
