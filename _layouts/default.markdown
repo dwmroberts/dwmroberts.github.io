@@ -14,10 +14,10 @@
       {% endif %}
     </div>
   </header>
-  <section class="bg-primary" id="about">
+  <section class="bg-primary">
     <div class="container">
         <div class="row">
-            <div class="col-lg-8 col-lg-offset-2 text-center">
+            <div class="col-lg-10 col-lg-offset-1 text-center">
               {{ content }}
             </div>
         </div>

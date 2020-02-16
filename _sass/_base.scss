@@ -390,8 +390,33 @@ body {
     margin: 2em auto !important;
 }
 
-.slick {
-  .slick-img {
-    width: 100%;
+.default-layout {
+  .slick {
+    .slick-img {
+      height: 600px;
+      margin: auto;
+    }
+
+    .slick-list {
+      margin-bottom: 8em;
+    }
+
+    .slick-dots {
+      bottom: -60px;
+    }
+
+    .slick-arrow {
+      visibility: hidden;
+    }
+  }
+}
+
+@media (min-width: 768px) {
+  .default-layout {
+    .slick {
+      .slick-arrow {
+        visibility: visible;
+      }
+    }
   }
 }
