@@ -22,7 +22,8 @@
      swipe: false,
      slide: '.header-content',
      arrows: false,
-     pauseOnFocus: false
+     pauseOnFocus: false,
+     pauseOnHover: false
    });
 
 }))

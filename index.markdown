@@ -13,8 +13,6 @@ images:
     title: Flowers
   - image_path: /img/portfolio/ink-stains.jpg
     title: Ink stains
-  - image_path: /img/portfolio/ink-streaks.jpg
-    title: Ink streaks
   - image_path: /img/portfolio/insects.jpg
     title: Insects
   - image_path: /img/portfolio/milgis.jpg
