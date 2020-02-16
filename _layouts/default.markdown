@@ -10,7 +10,7 @@
       {% if page.layout != 'post' %}
         <h1>{{ page.title }}</h1>
       {% else %}
-        <h1>Exhibitions</h1>
+        <h1><a href="/exhibitions">Exhibitions</a></h1>
       {% endif %}
     </div>
   </header>
