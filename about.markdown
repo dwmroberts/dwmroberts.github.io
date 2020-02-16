@@ -4,9 +4,16 @@ title: About
 permalink: /about/
 ---
 
-David was born and brought up in a remote area of Kenya, on the shores of Lake Baringo. The vast landscapes, endless horizons, and patterns of organic form have always inspired him, and are deeply ingrained in his art.
+David studied Printmaking in Florence which influenced his distinctive approach to ‘build’ a painting. 
 
-His mixed media work is derived from in-situ drawings, paintings, digital and pin-hole photographs. His work aims to capture the essence and spirit of landscapes using a variety of techniques to create a personal portrayal of the ever changing light, colour and atmosphere of the world.
+Starting from a line sketch with a combination of rice paper and archival tissue paper to form the layers. Acrylic ink forms the base layers of color. Thinner layers of paper are peeled, cut or sanded to reveal the true depth and dimension of the subject. Layers of paper offer the translucence required for delicate petals or wings.
+
+Combinations of heavy body acrylic paint and ink, which move at different speeds across the paper depending on how wet or viscous the canvas is, create more layers and are continually added as the painting develops. 
+
+The final stage is to set the painting with a layer of encaustic wax, which darkens some colors, while lightening others. Some layers will hide, some will reveal themselves, creating the effect of natural light and vast open space, which is unique to David’s work. 
+
+Raw Baringo beeswax is hand-refined twelve times to clarify and once translucent, is used to set the paintings, an original technique used by Egyptians and Romans
+
 
 ## Education history
 

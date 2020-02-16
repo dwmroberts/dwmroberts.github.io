@@ -6,8 +6,6 @@ author: David Roberts
 categories: exhibition
 ---
 
-David was born and brought up in a remote area of Kenya, on the shores of Lake Baringo, where the vast landscapes and endless horizons always inspired him. 
-
-“Reflections” is the perfect vehicle to display his latest collection, which captures the essence and spirit of Kenya’s enormous equatorial skies, reflective waters and distant mountains. 
+“Reflections” is the perfect vehicle to display David's latest collection, which captures the essence and spirit of Kenya’s enormous equatorial skies, reflective waters and distant mountains. 
 
 His unique mixed media method recreates the depth and luminosity experienced in-situ, from where all his initial drawings originate. Shimmering waters and natural light radiate through the paintings multiple layers. 

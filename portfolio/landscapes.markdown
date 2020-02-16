@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: portfolio
 title: Landscapes
 permalink: /portfolio/landscapes
 images:
@@ -7,106 +7,91 @@ images:
     title: Dawn on the River Milgis
   
   - image_path: /img/portfolio/landscapes/DSC9763.jpg
-    title: Untitled Milgis
+    title: Milgis Shore
   
   - image_path: /img/portfolio/landscapes/DSC9760.jpg
-    title: Untitled Milgis
+    title: Midday Milgis
 
   - image_path: /img/portfolio/landscapes/DSC9764.jpg
-    title: Untitled Milgis
+    title: Banks of the Milgis
 
   - image_path: /img/portfolio/landscapes/DSC9771.jpg
-    title: DSC9771
+    title: Gathering storm
   
   - image_path: /img/portfolio/landscapes/DSC9743.jpg
     title: Theia
   
   - image_path: /img/portfolio/landscapes/DSC2866.jpg
-    title: DSC2866
+    title: Dimbolil dam
     
   - image_path: /img/portfolio/landscapes/milgis-dawn-mounted-polkadot-show.jpg
     title: Milgis dawn
   
   - image_path: /img/portfolio/landscapes/the-milgis-from-above-sankara.jpg
-    title: The Milgis from above
-  
-  - image_path: /img/portfolio/landscapes/01-blue-exhibition.jpg
-    title: 01 Blue Exhibition
-  
+    title: Milgis from above
+
   - image_path: /img/portfolio/landscapes/02-bizbaz.jpg
-    title: 02 Bizarre Bazaar 
-  
-  - image_path: /img/portfolio/landscapes/02-blue-exhibition.jpg
-    title: 02 Blue Exhibition
-  
-  - image_path: /img/portfolio/landscapes/02-framed-bizbaz.jpg
-    title: 02 Bizarre Bazaar
-  
-  - image_path: /img/portfolio/landscapes/03-blue-exhibition.jpg
-    title: 03 Blue Exhibition
-  
+    title: Baringo Cloud
+
   - image_path: /img/portfolio/landscapes/03-framed-bizbaz.jpg
-    title: 03-framed-bizbaz
+    title: Baringo reflections
   
   - image_path: /img/portfolio/landscapes/04-framed-bizbaz.jpg
-    title: 04-framed-bizbaz
-  
-  - image_path: /img/portfolio/landscapes/10-framed-bizbaz-alchemist.jpg
-    title: 10-framed-bizbaz-alchemist
-  
+    title: Wisp
+
   - image_path: /img/portfolio/landscapes/11-framed-bizbaz.jpg
-    title: 11-framed-bizbaz
+    title: Shine
 
   - image_path: /img/portfolio/landscapes/12-framed-bizbaz-alchemist.jpg
-    title: 12-framed-bizbaz-alchemist
+    title: Little burst
   
   - image_path: /img/portfolio/landscapes/19-lamu-moveable-feasts.jpg
-    title: 19-lamu-moveable-feasts
+    title: Sunrise
 
   - image_path: /img/portfolio/landscapes/northwest-tibet-fund.jpg
     title: Northwest
   
   - image_path: /img/portfolio/landscapes/baringo-reflections-sankara.jpg
-    title: Baringo Reflections
+    title: Reflections
 
   - image_path: /img/portfolio/landscapes/02-hype.jpg
     title: 02 Journey through a lens
   
   - image_path: /img/portfolio/landscapes/15-hype.JPG
-    title: 15-hype
+    title: 15 Journey through a lens
   
   - image_path: /img/portfolio/landscapes/17-hype.JPG
-    title: 17-hype
+    title: 17 Journey through a lens
   
   - image_path: /img/portfolio/landscapes/19-hype.JPG
-    title: 19-hype
+    title: 19 Journey through a lens
   
   - image_path: /img/portfolio/landscapes/11-hype.jpg
-    title: 11-hype
+    title: 11 Journey through a lens
     
   - image_path: /img/portfolio/landscapes/04-hype.jpg
-    title: 04-hype
+    title: 04 Journey through a lens
   
   - image_path: /img/portfolio/landscapes/06-hype.jpg
-    title: 06-hype
+    title: 06 Journey through a lens
   
   - image_path: /img/portfolio/landscapes/07-hype.jpg
-    title: 07-hype
+    title: 07 Journey through a lens
   
   - image_path: /img/portfolio/landscapes/08-hype.jpg
-    title: 08-hype
+    title: 08 Journey through a lens
     
   - image_path: /img/portfolio/landscapes/21-hype.JPG
-    title: 21-hype
+    title: 21 Journey through a lens
   
   - image_path: /img/portfolio/landscapes/22-hype.JPG
-    title: 22-hype
+    title: 22 Journey through a lens
   
   - image_path: /img/portfolio/landscapes/23-hype.JPG
-    title: 23-hype
+    title: 23 Journey through a lens
   
   - image_path: /img/portfolio/landscapes/24-hype.JPG
-    title: 24-hype
+    title: 24 Journey through a lens
 ---
 
 
