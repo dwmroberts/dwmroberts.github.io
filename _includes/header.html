@@ -1,7 +1,8 @@
 <header class="front-header">
-    <div class="header-content">
-        <div class="header-content-inner">
-            <h1>David W M Roberts</h1>
-        </div>
+  {% for image in page.images %}
+    <div class="header-content" style="background-image: url('{{ image.image_path }}');">
     </div>
+  {% endfor %}
+  
+  <h1>David W M Roberts</h1>
 </header>

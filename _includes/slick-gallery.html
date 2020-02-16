@@ -1,0 +1,8 @@
+<div class="slick">
+  {% for image in page.images %}
+    <div>
+      <h3>{{ image.title }}</h3>
+      <img class="slick-img" src="{{ image.image_path }}" alt="{{ image.title}}"/>
+    </div>
+  {% endfor %}
+</div>

@@ -3,17 +3,15 @@
 
 {% include head.html %}
 
-<body id="page-top default-layout">
+<body id="page-top" class="default-layout">
   {% include nav.html %}
   <header>
     <div class="header-content">
-        <div class="header-content-inner">
-          {% if page.layout != 'post' %}
-            <h1>{{ page.title }}</h1>
-          {% else %}
-            <h1>Latest news</h1>
-          {% endif %}
-        </div>
+      {% if page.layout != 'post' %}
+        <h1>{{ page.title }}</h1>
+      {% else %}
+        <h1>Exhibitions</h1>
+      {% endif %}
     </div>
   </header>
   <section class="bg-primary" id="about">
