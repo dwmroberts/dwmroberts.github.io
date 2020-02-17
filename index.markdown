@@ -5,11 +5,14 @@
 layout: front
 
 images:
-  - image_path: /img/portfolio/landscapes/DSC9743.jpg
-    title: Theia
-  - image_path: /img/P1060535.jpg
+  - image_path: /img/portfolio/landscapes/milgis-dawn.jpg
+    title: Milgis
+  - image_path: /img/portfolio/supporting-work.jpg
+    title: Sketch books
+  - image_path: /img/portfolio/insects/R01-patz-hobbs.jpg
+    title: Red Dragonfly
   - image_path: /img/portfolio/tissue-and-ink.jpg
     title: Tissue and ink
-  - image_path: /img/portfolio/supporting-work.jpg
-    title: Supporting work
+  - image_path: /img/portfolio/landscapes/DSC9743.jpg
+    title: Theia
 ---
