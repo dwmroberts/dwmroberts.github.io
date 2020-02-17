@@ -13,6 +13,20 @@ images:
     title: Tissue paper layer
   - image_path: /img/portfolio/supporting-work/DSC6412.jpg
     title: Dimbolil Studies
+  - image_path: /img/DSC_1777.jpg
+    title: Ink pots
+  - image_path: DSC_1781.jpg
+    title: Dried flower
+  - image_path: DSC_1782.jpg
+    title: Paint brushes
+  - image_path: finalising-piece.jpeg
+    title: Finishing touches
+  - image_path: ironing-piece.jpeg
+    title: Ironing a flower
+  - image_path: running-ink.jpeg
+    title: Making ink run
+  - image_path: watercolour-process.jpeg
+    title: Watercolour up close
   - image_path: /img/portfolio/supporting-work/CA13-hype.jpg
     title: CA13 Journey through a lens
   - image_path: /img/portfolio/supporting-work/CA14-hype.jpg
