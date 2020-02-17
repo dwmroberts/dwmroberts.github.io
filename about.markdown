@@ -14,34 +14,27 @@ The final stage is to set the painting with a layer of encaustic wax, which dark
 
 Raw Baringo beeswax is hand-refined twelve times to clarify and once translucent, is used to set the paintings, an original technique used by Egyptians and Romans
 
-
-## Education history
-
-__2007__ University College for the Creative Arts, Farnham, UK
-
-__2008 - 2009__ Firenze Arti Visive, Florence, Italy; printmaking, drawing and digital media
-
-__2011__ Pratt Fine Arts Center Seattle, USA; screen printing
-
-__2011__ Gage Academy of Art Seattle, USA; oil painting, mixed media life drawing
-
 ## Previous exhibitions
 
-__2008 (April)__, Solo Exhibit, “David Roberts’ Recent Works”, Talisman Gallery, Nairobi, Kenya
+__2019 (October and November)__, Group Exhibit, “The Kenya Art Diary 2020”, Heinrich Boell Foundation
 
-__2009 (April)__, Solo Exhibit, “Journey through a Lens”, Gallery Hype, Florence, Italy
+__2019 (July)__, Group Exhibit, Soames Hotel, Nanyuki Kenya
 
-__2010__ Works exhibited, Lily Pond Art Center, Nanyuki, Kenya
+__2019 (August - December)__, Solo Exhibit, Soames Hotel, Nanyuki Kenya
 
-__2011__ Works exhibited and auctioned, The Tibet Fund Event, New York, USA
+__2018 (November)__, Solo Exhibit, Bizarre Bazaar, Karura Forest, Kenya
 
-__2011__ Works exhibited, Pacini Lubel Gallery, Seattle, USA
+__2018 (November)__, Group Exhibit, Polkadot Gallery, Christmas show, Nairobi, Kenya
 
-__2012__ Group Exhibit, [“Traditions”, M. Rosette Hunter Gallery](https://artgallery.seattlecentral.edu/traditions){:target='_blank'}, Seattle, USA
+__2018 (November - February 2019)__, Works displayed, The Alchemist, Nairobi, Kenya
 
-__2013__ Group Exhibit, Diani Beach Art Gallery, Diani, Kenya
+__2018 (July)__, Solo Exhibit, Polkadot Gallery, Nairobi, Kenya
 
-__2015__ ["Dawn on the River Milgis", ArtPrize](https://www.artprize.org/61890){:target='_blank'}, Michigan, USA
+__2018 (January)__, Group Exhibit, [“Reflections”, One off gallery in partnership with Sankara Hotel](https://www.oneoffafrica.com/reflections-sankara.html){:target='_blank'}, Nairobi, Kenya
+
+__2017 (October)__,  Group Exhibit, “The Kenya Art Diary 2018”, National Museums of Kenya
+
+__2017 (November)__, Group Exhibit, [“Blue”, One off gallery](https://www.oneoffafrica.com/blue.html){:target='_blank'}, Nairobi, Kenya
 
 __2016__ Charity Exhibit, “Art with the owls”, Naivasha, Kenya
 
@@ -49,22 +42,32 @@ __2016 (October - November)__, Solo Exhibit, “Peeling back the layers”, Polk
 
 __2016 (November - June 2017)__, Solo Exhibit “Moveable Feasts”, Lamu, Kenya
 
-__2017 (October)__,  Group Exhibit, “The Kenya Art Diary 2018”, National Museums of Kenya
+__2015__ ["Dawn on the River Milgis", ArtPrize](https://www.artprize.org/61890){:target='_blank'}, Michigan, USA
 
-__2017 (November)__, Group Exhibit, [“Blue”, One off gallery](https://www.oneoffafrica.com/blue.html){:target='_blank'}, Nairobi, Kenya
+__2013__ Group Exhibit, Diani Beach Art Gallery, Diani, Kenya
 
-__2018 (January)__, Group Exhibit, [“Reflections”, One off gallery in partnership with Sankara Hotel](https://www.oneoffafrica.com/reflections-sankara.html){:target='_blank'}, Nairobi, Kenya
+__2012__ Group Exhibit, [“Traditions”, M. Rosette Hunter Gallery](https://artgallery.seattlecentral.edu/traditions){:target='_blank'}, Seattle, USA
 
-__2018 (July)__, Solo Exhibit, Polkadot Gallery, Nairobi, Kenya
+__2011__ Works exhibited, Pacini Lubel Gallery, Seattle, USA
 
-__2018 (November)__, Solo Exhibit, Bizarre Bazaar, Karura Forest, Kenya
+__2011__ Works exhibited and auctioned, The Tibet Fund Event, New York, USA
 
-__2018 (November - February 2019)__, Works displayed, The Alchemist, Nairobi, Kenya
+__2010__ Works exhibited, Lily Pond Art Center, Nanyuki, Kenya
 
-__2018 (November)__, Group Exhibit, Polkadot Gallery, Christmas show, Nairobi, Kenya
+__2009 (April)__, Solo Exhibit, “Journey through a Lens”, Gallery Hype, Florence, Italy
 
-__2019 (October and November)__, Group Exhibit, “The Kenya Art Diary 2020”, Heinrich Boell Foundation
+__2008 (April)__, Solo Exhibit, “David Roberts’ Recent Works”, Talisman Gallery, Nairobi, Kenya
 
-__2019 (July)__, Group Exhibit, Soames Hotel, Nanyuki Kenya
+## Education history
 
-__2019 (August - December)__, Solo Exhibit, Soames Hotel, Nanyuki Kenya
+__2011__ Gage Academy of Art Seattle, USA; oil painting, mixed media life drawing
+
+__2011__ Pratt Fine Arts Center Seattle, USA; screen printing
+
+__2008 - 2009__ Firenze Arti Visive, Florence, Italy; printmaking, drawing and digital media
+
+__2007__ University College for the Creative Arts, Farnham, UK
+
+
+
+
