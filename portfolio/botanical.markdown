@@ -8,7 +8,7 @@ images:
   - image_path: /img/portfolio/botanical/pressed-adenium-obesum-kenya-art-diary.jpg
     title: Pressed adenium obesum
 
-  - image_path: /img/portfolio/botanical/pressed-oyster-bar.jpg
+  - image_path: /img/portfolio/botanical/7DS_6226_2.jpg
     title: Pressed adenium obesum 02
 
   - image_path: /img/portfolio/botanical/06-kenya-art-diary.jpg
