@@ -4,15 +4,18 @@ title: About
 permalink: /about/
 ---
 
-David studied Printmaking in Florence which influenced his distinctive approach to ‘build’ a painting. 
+David Roberts, (born 1986 in Kenya) is a painter, draftsman and printmaker. Inspired by the dramatic landscapes and wild spaces of his childhood, David’s artworks focus on the fleeting patterns, light and interactions of the natural world.
 
-Starting from a line sketch with a combination of rice paper and archival tissue paper to form the layers. Acrylic ink forms the base layers of color. Thinner layers of paper are peeled, cut or sanded to reveal the true depth and dimension of the subject. Layers of paper offer the translucence required for delicate petals or wings.
+Graduating from the _University for the Creative Arts_ in the UK, David moved to Florence in 2008 to study _Fine Art at Firenze Arti Visive, Italy_. From 2011 he studied at the _Pratt Fine Arts Center_ and the _Gage Academy of Art_, in Seattle, USA. 
 
-Combinations of heavy body acrylic paint and ink, which move at different speeds across the paper depending on how wet or viscous the canvas is, create more layers and are continually added as the painting develops. 
+This formal training in drawing, painting, printing and other mediums, like pin-hole photography and encaustic wax painting, laid the foundations for the growth of his meticulous and unique methods. 
 
-The final stage is to set the painting with a layer of encaustic wax, which darkens some colors, while lightening others. Some layers will hide, some will reveal themselves, creating the effect of natural light and vast open space, which is unique to David’s work. 
+Returning to Kenya in 2013, David says of that time: _“I’ve always loved the effect of printmaking, utilizing layering to create. So I started mixing papers, paints and inks in layers, then finishing the painting in an encaustic wax medium. Here, some colours darkened, some were lightened. Some layers will hide, some will reveal themselves, creating the effect of natural light and vast open space.”_
 
-Raw Baringo beeswax is hand-refined twelve times to clarify and once translucent, is used to set the paintings, an original technique used by Egyptians and Romans
+Growing up on the shores of Lake Baringo, one of the Great Rift Valley lakes, David’s family works alongside local communities to help them adapt to a changing environment. 
+This backdrop is ingrained in the simple lines, luminosity and beauty of his textured and tactile work.  
+
+David’s work is connected to the environment not only in its subject matter, but also in its materials. The beeswax integral to creating his unique effect of light and depth is sourced from local women’s cooperatives which manage the beehives - communities with whom David spent his childhood.
 
 ## Previous exhibitions
 
@@ -57,17 +60,3 @@ __2010__ Works exhibited, Lily Pond Art Center, Nanyuki, Kenya
 __2009 (April)__, Solo Exhibit, “Journey through a Lens”, Gallery Hype, Florence, Italy
 
 __2008 (April)__, Solo Exhibit, “David Roberts’ Recent Works”, Talisman Gallery, Nairobi, Kenya
-
-## Education history
-
-__2011__ Gage Academy of Art Seattle, USA; oil painting, mixed media life drawing
-
-__2011__ Pratt Fine Arts Center Seattle, USA; screen printing
-
-__2008 - 2009__ Firenze Arti Visive, Florence, Italy; printmaking, drawing and digital media
-
-__2007__ University College for the Creative Arts, Farnham, UK
-
-
-
-
