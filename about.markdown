@@ -19,9 +19,21 @@ David’s work is connected to the environment not only in its subject matter, b
 
 ## Previous exhibitions
 
+__2022 (November 11-26th)__, Art show, “Friends of the arts”, Kenya
+
+__2022 (May 14th)__, “David Roberts at the Hillview Market”, Hillview Market, Kenya
+
+__2021 (December 12-31st)__, Solo Exhibit, “Wing and a Prayer”, Soames Hotel, Nanyuki Kenya
+
+__2021 (November 2-28th)__, Solo Exhibit, “Wing and a Prayer”, Talisman Gallery, Nairobi, Kenya
+
+__2021 (March 21-31st)__, Solo Exhibit, “Wing and a Prayer”, Peponi Hotel, Lamu, Kenya
+
+__2020 (July and August 31-3rd)__, “Artists Against Hunger”, Matbronze Gallery, Nairobi, Kenya
+
 __2019 (October and November)__, Group Exhibit, “The Kenya Art Diary 2020”, Heinrich Boell Foundation
 
-__2019 (July)__, Group Exhibit, Soames Hotel, Nanyuki Kenya
+__2019 (June 21-30th)__, Group Exhibit, Soames Hotel, Nanyuki Kenya
 
 __2019 (August - December)__, Solo Exhibit, Soames Hotel, Nanyuki Kenya
 
