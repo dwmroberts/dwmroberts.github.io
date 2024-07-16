@@ -7,6 +7,10 @@ permalink: /exhibitions
 <div class="latest-posts">
   <ul>
     <li>
+      <h2>2024 (August and September 29th-1st), Solo Exhibit, “Nostalgia”, The Department Store, Brixton, UK</h2>
+      <p>Nostalgia is about unnatural events in the natural world. Roberts’ work preserves both memory and subject, however fleeting. His technique is a microscopic examination of nature’s own artwork. It celebrates the overlooked but fundamental elements of life itself: wildflowers and pollinators, revealing their magnificent but fragile beauty.</p>
+    </li>
+    <li>
       <h2>2023 (March), Group Exhibit, “Locust Series”, Brick Lane Gallery, London, UK</h2>
       <p></p>
     </li>
